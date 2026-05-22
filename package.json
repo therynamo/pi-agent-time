@@ -1,0 +1,16 @@
+{
+  "name": "pi-agent-time",
+  "version": "0.1.0",
+  "description": "Pi extension showing per-turn and cumulative LLM response times in the status bar",
+  "keywords": [
+    "pi-package"
+  ],
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions"
+    ]
+  }
+}
