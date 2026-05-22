@@ -11,6 +11,8 @@ Keep an eye on how long your model takes to respond, both per turn and cumulativ
 
 Both values reset when you start a new session.
 
+![pi-agent-time](static/screenshot.png)
+
 ## Usage
 
 ### Install
